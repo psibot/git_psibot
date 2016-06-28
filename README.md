@@ -1,1 +1,1 @@
-Fun stuff for Oracle On LInux
+Fun stuff for Oracle On Linux
